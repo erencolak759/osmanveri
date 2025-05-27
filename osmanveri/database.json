@@ -1,0 +1,32 @@
+[
+    {
+        "öncelik": false,
+        "bakiye": "1041",
+        "isim": "eren",
+        "Tc": "1"
+    },
+    {
+        "öncelik": false,
+        "bakiye": "100",
+        "isim": "osman",
+        "Tc": "1"
+    },
+    {
+        "öncelik": false,
+        "bakiye": "0",
+        "isim": "emre",
+        "Tc": "1"
+    },
+    {
+        "öncelik": false,
+        "bakiye": "0",
+        "isim": "emirhan",
+        "Tc": "1"
+    },
+    {
+        "öncelik": false,
+        "bakiye": "0",
+        "isim": "ern",
+        "Tc": "5"
+    }
+]
